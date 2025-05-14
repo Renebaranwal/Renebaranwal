@@ -69,24 +69,6 @@
 
 ---
 
-### 🌟 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rene_baranwal25?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-#### 🌸 BrewCraft - Coffee Ordering App  
-> A React-based coffee shop interface with menu customization, cart, and real-time interaction.
-
-#### 💼 Portfolio Website  
-> Responsive full-stack portfolio using React, Node.js, MongoDB, showcasing my achievements and contact form.
-
----
-
 ### ✨ Thank You!
 
 <p align="center">
