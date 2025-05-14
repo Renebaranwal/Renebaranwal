@@ -20,7 +20,7 @@
 
 - 👨‍💻 I’m currently learning **Web Development & DSA**  
 - 📫 Reach me at **renebaranwal@gmail.com**
-
+- ⚡ Fun fact: **The first programmer was Ada Lovelace – a woman ahead of her time! 💪👩‍💻**
 ---
 
 ### 🤝 Connect with Me
@@ -29,7 +29,7 @@
   <a href="https://twitter.com/renebaranw36146"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rene-baranwal-65b202248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@renebaranwal"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/rene_baranwal25"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  </a>
   <a href="https://codeforces.com/profile/rene_baranwal25"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/renebaranwal"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renebaranwal&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Renebaranwal" />
 </p>
 
 <p align="center">
