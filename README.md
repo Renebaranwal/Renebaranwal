@@ -1,29 +1,62 @@
-<h1 align="center">Hi 👋, I'm Rene baranwal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renebaranwal&label=Profile%20views&color=0e75b6&style=flat" alt="renebaranwal" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vansh16aug.visitor-badge" />
 
-<p align="left"> <a href="https://twitter.com/renebaranw36146" target="blank"><img src="https://img.shields.io/twitter/follow/renebaranw36146?logo=twitter&style=for-the-badge" alt="renebaranw36146" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+🌸;+I'm+Rene+Baranwal!" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning **Web development , dsa**
+<h3 align="center">💻 A Passionate Web Developer from India 💖</h3>
 
-- 📫 How to reach me **renebaranwal@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/renebaranw36146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renebaranw36146" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rene-baranwal-65b202248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rene-baranwal-65b202248" height="30" width="40" /></a>
-<a href="https://medium.com/@renebaranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renebaranwal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rene baranwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rene baranwal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rene_baranwal25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rene_baranwal25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rene_baranwal25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rene_baranwal25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/renebaranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="renebaranwal" height="30" width="40" /></a>
-</p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **Personal Projects**
+ 
+ 🌱 I’m currently learning **ReactJs**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ ⚡ Fun fact: **The first programmer was Ada Lovelace – a woman ahead of her time! 💪👩‍💻**
+ 
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:kumarvansh16aug@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vansh-kumar16aug/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vansh.kumar.projectwork.tech/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+</div>
 
+<br/>
 
+<div align="center">
+    <h2 align="center">💖 GitHub Stats 💖</h2>
+    <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=pink&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<hr/>
 
+<h2 align="center">🎀 Languages, Frameworks & Tools 🎀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,figma,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,python,c,mysql" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renebaranwal&" alt="renebaranwal" /></p>
+<br/>
+<hr/>
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/f2/b1/e4/f2b1e42d8e6cb2f78989aa4f39ef5ef1.gif" alt="coding-girl" width="300"/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🌷;+Let's+connect+on+LinkedIn!;Girls+Can+Code+Too+💪+😊">
+</h3>
